@@ -1,0 +1,17 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# Replit specific
+.replit
+.config
+.cache
+.local
+.upm
+replit.nix
+replit_zip_error_log.txt
+mental-wellness-chatbot.zip
+split_files/
